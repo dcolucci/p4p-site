@@ -11,7 +11,7 @@ title: Planting for Progress
 
 Planting for Progress is a community-sourced project started by Agatha Isabel (<a href="https://www.instagram.com/plant.ma" target="_blank">@plant.ma</a>). Members of our community donate plants to be auctioned, and the proceeds are donated to local organizations and non-profits. The project started as a way to support Black Lives Matter and has since expanded to other causes, including LGBTQ+, voting rights and various NYC-local organizations.
 
-Planting for Progress has had three rounds of auctions so far, raising over $5,000!
+Planting for Progress has had three rounds of auctions so far, raising over $6.6k!
 
 ## Organizations we've supported
 
@@ -24,6 +24,10 @@ Planting for Progress has had three rounds of auctions so far, raising over $5,0
 <a href="https://www.innocenceproject.org" target="_blank">The Innocence Project</a> \| <a href="https://www.innocenceproject.org/donate/" target="_blank">Donate</a>
 
 <a href="https://blacklivesmatter.com" target="_blank">Black Lives Matter</a> \| <a href="https://secure.actblue.com/donate/ms_blm_homepage_2019" target="_blank">Donate</a>
+
+<a href="https://www.raicestexas.org" target="_blank">RAICES</a> \| <a href="https://www.raicestexas.org/ways-to-give/donate/" target="_blank">Donate</a>
+
+<a href="https://www.plannedparenthood.org" target="_blank">Planned Parenthood</a> \| <a href="https://www.plannedparenthood.org/get-involved/other-ways-give" target="_blank">Donate</a>
 
 ## Learn more
 
