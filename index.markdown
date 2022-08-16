@@ -62,3 +62,5 @@ Agatha is a digital risk professional by day, plant lover 24/7. She has always b
 Through her plant collection and community, she found a creative way to give back to marginalized communities as well as support social justice causes by auctioning a Pink Princess Philodendron. One thing led to another, and now she’s not auctioned more than 35+ rare plants since May 2020. Follow the org on <a href="https://www.instagram.com/plantingforprogress" target="_blank">@plantingforprogress</a>
 
 <cite>For press and marketing questions, please contact <a href="mailto:plantma@agathaisabel.com">plantma@agathaisabel.com</a><cite>
+
+<!-- test comment foobar -->
