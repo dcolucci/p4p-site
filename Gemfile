@@ -10,9 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.0.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
-# I wanted to use the custom-head.html feature to inject custom CSS, but it is not
-# yet supported in a released version, so we're pinning to this commit on master for now
-gem "minima", github: "jekyll/minima", ref: "49f6dce0727a2441f0b0c265b41b5efc7b042eb6"
+gem "minima"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -31,3 +29,8 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# Jekyll appears to specify versions of these dependencies that require ruby 2.5+
+# However, AWS Amplify appears to run images that use ruby 2.4.x
+# Pinning these for now as a lazy workaround
+gem "jekyll-seo-tag", "2.6.1"
+gem "jekyll-sass-converter", "2.1.0"
